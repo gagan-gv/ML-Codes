@@ -5,6 +5,7 @@
 4. [KNN](https://github.com/gagan-gv/ML-Codes/blob/main/Class%204.ipynb)
 5. [Naive Bayes](https://github.com/gagan-gv/ML-Codes/blob/main/Class%205.ipynb)
 6. [Decision Tree](https://github.com/gagan-gv/ML-Codes/blob/main/Class%206.ipynb)
+7. [Simple Perceptron](https://github.com/gagan-gv/ML-Codes/blob/main/Class%207.ipynb)
 
 # Assignments
 1. [Assignment 1](https://github.com/gagan-gv/ML-Codes/blob/main/Assignment%20-%201.ipynb)
