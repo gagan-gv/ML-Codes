@@ -11,3 +11,4 @@
 # Assignments
 1. [Assignment 1](https://github.com/gagan-gv/ML-Codes/blob/main/Assignment%20-%201.ipynb)
 2. [Assignment 2](https://github.com/gagan-gv/ML-Codes/blob/main/Assignment%20-%202.ipynb)
+3. [Assignment 3](https://github.com/gagan-gv/ML-Codes/blob/main/Assignment%20-%203.ipynb)
