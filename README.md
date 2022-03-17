@@ -7,6 +7,7 @@
 6. [Decision Tree](https://github.com/gagan-gv/ML-Codes/blob/main/Class%206.ipynb)
 7. [Simple Perceptron](https://github.com/gagan-gv/ML-Codes/blob/main/Class%207.ipynb)
 8. [Multi Layer Perceptron](https://github.com/gagan-gv/ML-Codes/blob/main/Class%208.ipynb)
+9. [SVM](https://github.com/gagan-gv/ML-Codes/blob/main/Class%209.ipynb)
 
 # Assignments
 1. [Assignment 1](https://github.com/gagan-gv/ML-Codes/blob/main/Assignment%20-%201.ipynb)
